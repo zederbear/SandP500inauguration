@@ -27,6 +27,10 @@ This project visualizes the performance of the S&P 500 index during the first 20
 
     The script will generate a plot showing the S&P 500 performance for each presidential term.
 
+## Graphs
+![line graph](graphs/line.png)
+![bar graph](graphs/bar.png)
+
 ## Data Source
 
 The S&P 500 data is obtained from [wsj](https://www.wsj.com/market-data/quotes/index/SPX/historical-prices)
